@@ -1,2 +1,2 @@
-# python crashc ourse
+# python crash course
 "Python Crash Course" a book by Eric Matthes
