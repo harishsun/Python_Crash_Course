@@ -20,10 +20,10 @@ cities = {
 }
 
 for city, city_info in cities.items():
-    print("\n\t" + city.title())
+    print("\n\t" + city.title() + ": ")
     print("\t******************")
 
     for more_city, more_city_info in city_info.items():
-        print("\t" + (str(more_city).title()) + ":" + str(more_city_info).title())
+        print("\t" + (str(more_city).title()) + ": " + str(more_city_info).title())
 
 
