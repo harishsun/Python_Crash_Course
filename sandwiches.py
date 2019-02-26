@@ -7,5 +7,5 @@ def make_sandwiches(*fillings):
 
 
 make_sandwiches('egg')
-make_sandwiches('tomato, cucumber')
+make_sandwiches('tomato', 'cucumber')
 make_sandwiches('pickles', 'jalapenos', 'olives')
